@@ -1,0 +1,24 @@
+{
+  "name": "react-editor",
+  "version": "1.0.0",
+  "description": "Draft.js wrapper of Rich Editor to HTML markdown",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonWang01/React-Editor.git"
+  },
+  "keywords": [
+    "React",
+    "Editor",
+    "markdown"
+  ],
+  "author": "yicheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasonWang01/React-Editor/issues"
+  },
+  "homepage": "https://github.com/EasonWang01/React-Editor#readme"
+}
