@@ -16,9 +16,13 @@
     "markdown"
   ],
   "author": "yicheng",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EasonWang01/React-Editor/issues"
   },
-  "homepage": "https://github.com/EasonWang01/React-Editor#readme"
+  "homepage": "https://github.com/EasonWang01/React-Editor#readme",
+  "dependencies": {
+    "draft-js": "^0.9.1",
+    "draft-js-export-html": "^0.5.2"
+  }
 }
